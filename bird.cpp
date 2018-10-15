@@ -4,7 +4,9 @@
 
 #include "bird.hpp"
 
-Bird::Bird(){};
+Bird::Bird(){
+
+};
 Bird::Bird(int a, double x, double y, double h){};
 Bird::move(double x, double y, double h){};
 Bird(const Bird& a){
